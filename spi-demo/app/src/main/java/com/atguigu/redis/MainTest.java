@@ -16,7 +16,7 @@ import java.util.ServiceLoader;
  *      客户端----引用 工程1、或者 工程2
  *
  * 测试：
- *  app项目目录下的 pom.xml 中，任意组合注释mysql的dependency 或者 redis的dependency
+ *  app模块目录下的 pom.xml 中，任意组合注释mysql的dependency 或者 redis的dependency
  */
 public class MainTest {
 
